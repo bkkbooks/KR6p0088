@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0088_000-X.yaml, hash: 'sha256:0cb5b37626fb0ec67c79453acd8f29369d4703f089f1717b41c854ab537b29a9'}
+  - {seq: 0, filename: KR6p0088_000-X.yaml, hash: 'sha256:1abbf2a218a7608bb2087c759b251edba713408a6d3056d93073fde80d12a9c4'}
   - {seq: 1, filename: KR6p0088_001-X.yaml, hash: 'sha256:394077647a0d952fe2493c8a60eef5b6457a49debb81342fe59169d5dde346d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0088_000-X.markers.yaml, hash: 'sha256:036ed489f106fcecc1677cf61d184ed6b8c42bbee97e6a0bbb7d46ca024e0344'}
+  - {seq: 0, role: markers, filename: assets/KR6p0088_000-X.markers.yaml, hash: 'sha256:f998f520ff8caa4feab5130dd4589666e6b78c4cde411355694a0add8786ac33'}
   - {seq: 1, role: markers, filename: assets/KR6p0088_001-X.markers.yaml, hash: 'sha256:82e4f168aebc8ab065b67749a6362b4a6f6fe89244bee057c17d402fc7fdacb0'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0088_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1169-A 淨土生無生論會集序
@@ -75,4 +75,4 @@ table_of_contents:
   label: No. 1169-C 䟦語
   type: mulu
   level: 1
-hash: sha256:03b6a810e029bb39d620606ba420838a8db9dd82f86d878bb2d79aedf4965979
+hash: sha256:de162e285cad425996debda748b46c63ddfd6c450c95c4d21656b28ae938da53
